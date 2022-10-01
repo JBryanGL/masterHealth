@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/signin_screen"
+    tools:context=".SignInActivity">
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/emailLayout"
+        style="@style/LoginTextInputOuterFieldStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginTop="350dp"
+        android:textColorHint="@color/white"
+        app:boxStrokeColor="@color/white"
+        app:counterTextColor="@color/white"
+        app:helperTextTextColor="@color/white"
+        app:hintTextColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:placeholderTextColor="@color/white"
+        app:prefixTextColor="@color/white"
+        app:suffixTextColor="@color/white">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/emailEt"
+            style="@style/LoginTextInputInnerFieldStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Correo"
+            android:inputType="textEmailAddress"
+            android:shadowColor="@color/white"
+            android:textColor="@color/white"
+            android:textColorHighlight="@color/white"
+            android:textColorHint="@color/white"
+            android:textColorLink="@color/white" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/passwordLayout"
+        style="@style/LoginTextInputOuterFieldStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginTop="24dp"
+        android:textColorHint="@color/white"
+        app:boxStrokeColor="@color/white"
+        app:counterTextColor="@color/white"
+        app:helperTextTextColor="@color/white"
+        app:hintTextColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/emailLayout"
+        app:passwordToggleEnabled="true"
+        app:placeholderTextColor="@color/white"
+        app:prefixTextColor="@color/white"
+        app:suffixTextColor="@color/white">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/passET"
+            style="@style/LoginTextInputInnerFieldStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Contraseña"
+            android:inputType="textPassword"
+            android:textColor="@color/white"
+            android:textColorHighlight="@color/white"
+            android:textColorHint="@color/white"
+            android:textColorLink="@color/white" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="16dp"
+        android:background="@drawable/button_rounded"
+        android:text="Iniciar Sesión"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.531"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/passwordLayout"
+        app:layout_constraintVertical_bias="0.625" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="40dp"
+        android:text="¿Aún no tienes una cuenta?"
+        android:textColor="@android:color/holo_orange_dark"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/titulo"
+        android:layout_width="230dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="208dp"
+        android:text="¡BIENVENIDO!"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="@color/white"
+        android:textSize="35dp"
+        android:typeface="normal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.093"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/titulo2"
+        android:layout_width="303dp"
+        android:layout_height="27dp"
+        android:layout_marginTop="264dp"
+        android:text="Ingresa tus datos para continuar"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="@color/white"
+        android:textSize="18dp"
+        android:typeface="normal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.153"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/atras"
+        android:layout_width="37dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/atras"
+        android:backgroundTint="@color/white"
+        android:shadowColor="@color/white"
+        android:textColor="@color/white"
+        android:textColorHighlight="@color/white"
+        android:textColorHint="@color/white"
+        android:textColorLink="@color/white"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:rippleColor="@color/white"
+        app:strokeColor="@color/white" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
