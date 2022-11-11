@@ -3,26 +3,59 @@
     package="com.codingstuff.loginandsignup">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/logo1"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/logo1"
         android:supportsRtl="true"
         android:theme="@style/Theme.LoginAndSignUp">
         <activity
-            android:name=".Prestart"
+            android:name=".visorMusic2"
             android:exported="false" />
         <activity
-            android:name=".StartupActivity"
-            android:exported="true">
+            android:name=".visorMusic1"
+            android:exported="false" />
+        <activity
+            android:name=".VisorWeb"
+            android:exported="false" />
+        <activity
+            android:name=".Frecuencia"
+            android:exported="false" />
+        <activity
+            android:name=".podome"
+            android:exported="false" />
+        <activity
+            android:name=".logOut"
+            android:exported="false" />
+        <activity
+            android:name=".load"
+            android:exported="true"
+            android:theme="@style/splashTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Api"
+            android:exported="false" />
+        <activity
+            android:name=".PrincipalCorporal"
+            android:exported="false" />
+        <activity
+            android:name=".Principal"
+            android:exported="false" />
+        <activity
+            android:name=".Prestart"
+            android:exported="false" />
+        <activity
+            android:name=".StartupActivity"
+            android:exported="true" />
         <activity
             android:name=".SignInActivity"
             android:exported="true" />

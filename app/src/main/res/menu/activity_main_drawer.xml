@@ -16,7 +16,12 @@
             android:id="@+id/nav_slideshow"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/nav_form"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_form" />
     </group>
+
     <item android:title="Titulo2">
         <menu>
             <item
@@ -25,7 +30,11 @@
                 android:title="Configuración" />
             <item
                 android:id="@+id/nav_cerrarSesion"
-                android:icon="@drawable/ic_menu_camera"
+                android:icon="@drawable/common_full_open_on_phone"
+                android:title="Cerrar Sesión" />
+            <item
+                android:id="@+id/dialog_button"
+                android:icon="@drawable/common_full_open_on_phone"
                 android:title="Cerrar Sesión" />
         </menu>
     </item>

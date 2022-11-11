@@ -36,22 +36,27 @@
 
     <VideoView
         android:id="@+id/videoView"
-        android:layout_width="486dp"
-        android:layout_height="898dp"
-        android:background="?android:attr/textColorTertiary"
+        android:layout_width="490dp"
+        android:layout_height="900dp"
+        android:background="?android:attr/textColorSecondary"
         android:visibility="visible"
-        tools:layout_editor_absoluteX="-38dp"
-        tools:layout_editor_absoluteY="-65dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.506"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.502" />
 
     <TextView
         android:id="@+id/titulo2"
         android:layout_width="307dp"
         android:layout_height="73dp"
-        android:layout_marginTop="380dp"
+        android:layout_marginTop="390dp"
+        android:fontFamily="@font/open_sans"
         android:text="Cuando sientas que vas a rendirte, piensa en por que empezaste"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         android:textColor="@color/white"
-        android:textSize="18dp"
+        android:textSize="16sp"
         android:typeface="normal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.317"
@@ -61,15 +66,16 @@
     <TextView
         android:id="@+id/titulo"
         android:layout_width="304dp"
-        android:layout_height="58dp"
-        android:layout_marginTop="296dp"
-        android:text="FitnessApp"
+        android:layout_height="122dp"
+        android:layout_marginTop="250dp"
+        android:fontFamily="@font/open_sans"
+        android:text="Master Health"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         android:textColor="@color/white"
         android:textSize="50dp"
         android:typeface="normal"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.336"
+        app:layout_constraintHorizontal_bias="0.308"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 

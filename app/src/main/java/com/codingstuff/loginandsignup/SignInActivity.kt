@@ -5,7 +5,11 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import androidx.fragment.app.Fragment
+//import com.codingstuff.appFit.databinding.ActivitySignInBinding
 import com.codingstuff.loginandsignup.databinding.ActivitySignInBinding
+import com.codingstuff.loginandsignup.ui.form.FormFragment
+import com.codingstuff.loginandsignup.ui.gallery.GalleryFragment
 import com.google.firebase.auth.FirebaseAuth
 
 class SignInActivity : AppCompatActivity() {
@@ -39,7 +43,7 @@ class SignInActivity : AppCompatActivity() {
 
                 firebaseAuth.signInWithEmailAndPassword(email, pass).addOnCompleteListener {
                     if (it.isSuccessful) {
-                        val intent = Intent(this, Home::class.java)
+                        val intent = Intent(this, Principal::class.java)
                         startActivity(intent)
                     } else {
                         Toast.makeText(this, it.exception.toString(), Toast.LENGTH_SHORT).show()
@@ -56,7 +60,7 @@ class SignInActivity : AppCompatActivity() {
     override fun onStart() {
         super.onStart()
         if(firebaseAuth.currentUser != null){
-            val intent = Intent(this, Home::class.java)
+            val intent = Intent(this, Principal::class.java)
             startActivity(intent)
         }
     }

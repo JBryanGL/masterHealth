@@ -5,22 +5,64 @@
       <map>
         <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/drawable-v24/imagenCircular_foreground.xml" value="0.164" />
         <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/drawable/bar.xml" value="0.164" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/drawable/barhomecolor.xml" value="0.16" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/drawable/bluebar.xml" value="0.2145" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/drawable/button_blue.xml" value="0.2135" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/drawable/button_pink.xml" value="0.2135" />
         <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/drawable/button_rounded.xml" value="0.1975" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/drawable/button_rounded_border.xml" value="0.2145" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/drawable/button_rounded_border_grey.xml" value="0.2155" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/drawable/circulopasos.xml" value="0.2135" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/drawable/custom_progressbar.xml" value="0.1" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/drawable/edit_text_rounded.xml" value="0.2145" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/drawable/ic_back.xml" value="0.2155" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/drawable/ic_buttom.xml" value="0.2145" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2155" />
         <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/drawable/imagenCircular_background.xml" value="0.164" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/drawable/row_activated.xml" value="0.1" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/drawable/side_nav_bar.xml" value="0.2155" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/drawable/splash.xml" value="0.1" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/drawable/splash_screen.xml" value="0.177" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_api.xml" value="0.1" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_dialog2.xml" value="0.25" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_dialog3.xml" value="0.33" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_dialog_herramientas.xml" value="0.33" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_freacuencia.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_frecuencia.xml" value="0.22" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_frecuencia_cardiaca.xml" value="0.33" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_help_pedometro.xml" value="0.33" />
         <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_home.xml" value="0.22" />
-        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_main.xml" value="0.16893115942028986" />
-        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_prestart.xml" value="0.25" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_load.xml" value="0.5" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_log_out.xml" value="0.1875" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_musica.xml" value="0.33" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_podome.xml" value="0.25" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_podometro.xml" value="0.1" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_prestart.xml" value="0.2" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_principal.xml" value="0.1" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_principal_corporal.xml" value="0.2" />
         <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_sign_in.xml" value="0.33" />
-        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
-        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_startup.xml" value="0.16" />
-        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/app_bar_home.xml" value="0.25" />
-        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/content_home.xml" value="0.20833333333333334" />
-        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/fragment_gallery.xml" value="0.20833333333333334" />
-        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/fragment_home.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_startup.xml" value="0.2" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_visor_music1.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_visor_music2.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/activity_visor_web.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/app_bar_home.xml" value="0.1" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/content_home.xml" value="0.25" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/dialog_input.xml" value="0.25" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/fragment_fatsecret_search.xml" value="0.19322916666666667" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/fragment_form.xml" value="0.22" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/fragment_gallery.xml" value="0.17" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/fragment_home.xml" value="0.1" />
         <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/fragment_slideshow.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/item.xml" value="0.1" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/item_api.xml" value="0.20833333333333334" />
         <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/nav_header_home.xml" value="0.25" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/layout/widget_podometro.xml" value="0.20729166666666668" />
         <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
         <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/menu/home.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/menu/menu_main.xml" value="0.19322916666666667" />
         <entry key="..\:/Users/bryan/AndroidStudioProjects/LoginSignUpKotlin-master/LoginSignUpKotlin-master/app/src/main/res/mipmap-anydpi-v26/imagenCircular.xml" value="0.164" />
         <entry key="..\:/Users/sanat/Desktop/Android Studio Projects/Kotlin Project/Practice Project/LoginAndSignUp/app/src/main/res/layout/activity_main.xml" value="0.2484375" />
         <entry key="..\:/Users/sanat/Desktop/Android Studio Projects/Kotlin Project/Practice Project/LoginAndSignUp/app/src/main/res/layout/activity_sign_in.xml" value="0.2484375" />
